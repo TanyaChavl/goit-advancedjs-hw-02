@@ -1,9 +1,6 @@
 /* Основні стилі для всієї сторінки */
 body {
     display: flex;
-    /* justify-content: center; */
-    /* align-items: center; */
-    /* min-height: 100vh; */
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     font-style: normal;
